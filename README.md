@@ -1,4 +1,4 @@
-# pandas-challenge
+# Heroes Of Pymoli Game Statistics
 
 This activity utilised Pandas to calculate statistics and create data frames to summarise the following information for the fictional game, Heroes Of Pymoli:    
 
